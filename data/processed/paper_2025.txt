@@ -1,0 +1,1190 @@
+
+--- page 1 ---
+*ECNEICS*
+Series : GHF2E SET~3
+प्रश् न-पत्र कोड
+3 1/2/3
+Q.P. Code
+रोि नं. परीक्षार्थी प्रश्न -पत्र कोड को उत्तर-पस्ु तिका के
+Roll No.
+मखु -पष्ठृ पर अवश्य स्िखें ।
+Candidates must write the Q.P. Code
+on the title page of the answer-book.
+नोट
+NOTE
+(I) कृपया जााँच कर िें स्क इस प्रश्न -पत्र में मस्ु िि पष्ठृ (I) Please check that this question paper
+27 ह ैं । contains 27 printed pages.
+(II) प्रश्न -पत्र में दास्हने हार्थ की ओर स्दए गए (II) Q.P. Code given on the right hand
+प्रश्न -पत्र कोड को परीक्षार्थी उत्तर-पस्ु तिका के side of the question paper should be
+written on the title page of the
+मखु -पष्ठृ पर स्िखें ।
+answer-book by the candidate.
+(III) कृपया जााँच कर िें स्क इस प्रश्न -पत्र में 39 प्रश्न (III) Please check that this question paper
+ह ैं । contains 39 questions.
+(IV) कृपया प्रश् न का उत्तर लिखना शुरू करने से (IV) Please write down the Serial
+पहिे, उत्तर-पुलतिका में यथा तथान पर प्रश् न Number of the question in the
+answer-book at the given place
+का क्रमाांक अवश्य लिखें ।
+before attempting it.
+(V) इस प्रश्न -पत्र को पढ़न े के स्िए 15 स्मनट का (V) 15 minute time has been allotted to
+समय स्दया गया ह ै । प्रश्न -पत्र का स्विरण पवू ााह्न read this question paper. The
+question paper will be distributed
+में बजे स्कया जाएगा । बजे से
+10.15 10.15
+at 10.15 a.m. From 10.15 a.m. to
+बजे िक परीक्षार्थी केवि प्रश्न -पत्र को
+10.30 10.30 a.m., the candidates will
+पढ़ेंगे और इस अवस्ि के दौरान वे उत्तर-पस्ु तिका read the question paper only and
+पर कोई उत्तर नहीं स्िखेंगे । will not write any answer on the
+# answer-book during this period.
+विज्ञान
+SCIENCE
+निर्धारित समय :
+3
+घण्ट े अनर्कतम अंक :
+80
+Time allowed : 3 hours Maximum Marks : 80
+*31/2/3* 1 # [ P.T.O. ]
+--- page 2 ---
+*ECNEICS*
+सामान्‍य‍न ‍र्देश‍:
+नि म् िन न त नि र्देशों को बहुत सधवर्धिी से पऩिए औि उिकध सख़्ती से पध ि कीनिए :
+(i) इस प्रश्ि -पत्र म ें कु
+39
+प्रश्ि ह ैं। सभी‍प्रश्ि अन वायय ह ैं।
+(ii) यह प्रश्ि -पत्र पााँच ण्ड ों में नवभधनित नकयध गयध ह ै – क,‍ख,‍ग,‍घ एवं ङ ।
+(iii) खण्ड‍ ‍क
+–
+प्रश्ि संख् यध
+1
+‍स े
+20
+तक बहुनवक ल् पीय प्रकधि के प्रश्ि ह ैं। प्रत्येक प्रश्ि
+1
+अंक कध ह ै।
+(i
+v
+) खण्ड‍ ‍ख
+–
+प्रश्ि संख् यध
+21
+‍से
+26
+तक अनत घ-ु उत्तिीय प्रकधि के प्रश्ि ह ैं । प्रत्येक प्रश्ि
+2
+अंकों कध
+ह ै । इि प्रश्ि ों के उत्ति से शब्र्दों में नर्दए िधिे चधनहए ।
+30 50
+(
+v
+) खण्ड‍ ‍ग
+–
+प्रश्ि संख् यध
+27
+से
+33
+तक घु-उत्तिीय प्रकधि के प्रश्ि ह ैं। प्रत्य ेक प्रश्ि
+3
+अंकों कध ह ै। इि
+प्रश्ि ों के उत्ति स े शब् र्दों में नर्दए िधिे चधनहए ।
+50 80
+(
+v
+i) खण्ड‍ ‍घ
+–
+प्रश्ि संख् यध
+34
+स े
+36
+तक र्दीघा-उत्तिीय प्रकधि के प्रश्ि ह ैं । प्रत्य ेक प्रश्ि
+5
+अंकों कध ह ै ।
+इि प्रश्ि ों के उत्ति स े शब् र्दों में नर्दए िधिे चधनहए ।
+80 120
+(
+v
+ii) खण्ड‍ ‍ङ
+–
+प्रश्ि संख् यध
+37
+स े
+39
+तक
+3
+स्रोत-आर्धरित/प्रकिण-आर्धरित इकधइयों के मूल्यधंकि के
+4
+अंकों के प्रश्ि (उप-प्रश्ि ों सनहत) ह ैं ।
+(
+v
+iii) प्रश्ि -पत्र में समग्र नवकल् प िहीं नर्दयध गयध ह ै । यद्यनप, कुछ ण्डों म ें आंतरिक नवकल् प नर्दए गए ह ैं । इस प्रकधि
+के प्रश्ि ों में केव एक ही नवकल्प कध उत्ति र्दीनिए ।
+खण्ड क $
+प्रश्ि संख् यध
+1
+स े
+20
+तक बहुनवकल्पीय प्रश्ि ह ैं । इिमें से केव एक नवकल्प ही सही ह ै । प्रत्येक प्रश्ि में नर्दए
+गए चधि नवकल् पों में से सबसे उनचत नवकल्प चनु िए औि न न ए ।
+201=20
+1.
+जि के स्वद्यिु अपघटन में इिेक्‍ट रोडों पर मक्‍टु ि हाइड्रोजन और ऑक्‍टस ीजन गैसों के िव्य मानों का अनपु ाि
+होिा ह ै:
+(A) 1 : 2
+(B) 1 : 4
+(C) 1 : 8
+(D) 1 : 16
+*31/2/3* 2 #
+--- page 3 ---
+*ECNEICS*
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper comprises 39 questions. All questions are compulsory.
+(ii) This question paper is divided into five sections – A, B, C, D and E.
+(iii) Section A – Questions No. 1 to 20 are Multiple Choice Questions. Each
+question carries 1 mark.
+(iv) Section B – Questions No. 21 to 26 are Very Short Answer type questions.
+Each question carries 2 marks. Answer to these questions should be in the
+range of 30 to 50 words.
+(v) Section C – Questions No. 27 to 33 are Short Answer type questions. Each
+question carries 3 marks. Answer to these questions should in the range of
+50 to 80 words.
+(vi) Section D – Questions No. 34 to 36 are Long Answer type questions. Each
+question carries 5 marks. Answer to these questions should be in the range of
+80 to 120 words.
+(vii) Section E – Questions No. 37 to 39 are of 3 source-based/case-based units of
+assessment carrying 4 marks each with sub-parts.
+(viii) There is no overall choice. However, an internal choice has been provided in
+some sections. Only one of the alternatives has to be attempted in such
+questions.
+SECTION A
+Questions No. 1 to 20 are Multiple Choice Questions. Only one of the choices is
+correct. Select and write the most appropriate option out of the four options given
+for each. 201=20
+1. In the electrolysis of water, the mass ratio of hydrogen and oxygen gases
+liberated at the electrodes is :
+(A) 1 : 2
+(B) 1 : 4
+(C) 1 : 8
+(D) 1 : 16
+*31/2/3* 3 # [ P.T.O. ]
+--- page 4 ---
+*ECNEICS*
+2.
+मानव शरीर के काया करने के
+pH
+का परास (पररसर) ह ै
+:
+स े स े
+(A) 61 68 (B) 65 73
+स े स े
+(C) 70 78 (D) 75 81
+3.
+स्नम् नस्िस्खि में से स्कसके हाइड्रॉक्‍ट साइड से भरे बिानों (पात्रों) पर स्दए गए आरेख में दशााया गया
+चेिावनी स्चह्न आवश् यक रूप से िगाया जाना चास्हए ?
+(A)
+ऐिस्ु मस्नयम
+(B)
+कैस्ससयम
+सोस्डयम मैग्नीस्शयम
+(C) (D)
+4.
+दो स्भन् न स्मश्रािओु ंको प्राप् ि करने के स्िए गस्िि कॉपर (प्रार्थस्मक िाि)ु में स्नस्श्च ि अनुपाि में स् ंक
+और स्टन को पर्थृ क-पर्थृ क स्विीन स्कया गया ह ै । इनसे क्रमश: जो दो स्भन्न स्मश्राि ु बनिे ह , ैं उन् ह ें कहिे
+ह ैं:
+(A)
+ब्रान् और पीिि
+(B)
+पीिि और सोसड र
+(C)
+पीिि और ब्रान्
+(D)
+सोसड र और ब्रान्
+5.
+र्थस्माट वेस्सडंग में ऐिुस्मस्नयम चणू ा का उपयोग स्कया जािा है क्‍ट योंस्क :
+(A)
+ऐिस्ु मस्नयम की आयरन के सार्थ अस्भस्क्रया अत् यस्िक ऊष् माक्षेपी ह ै।
+(B)
+ऐिस्ु मस्नयम को जब आयरन
+(III)
+ऑक्‍टस ाइड के सार्थ गमा स्कया जािा ह,ै िो गस्िि आयरन
+प्राप् ि होिा ह ै।
+(C)
+ऐिस्ु मस्नयम को जब आयरन
+(III)
+ऑक्‍टस ाइड के सार्थ गमा स्कया जािा ह,ै िो गस्िि
+ऐिस्ु मस्नयम ऑक्‍ट साइड प्राप्त होिा ह ैजो रेि की पटररयों को जोड़िा ह ै।
+(D)
+ऐिस्ु मस्नयम का गिनांक आयरन के गिनांक से कम ह ै िर्था गमा करने पर ऐिुस्मस्नयम और
+आयरन का गस्िि स्मश्राि ुबनिा ह ैजो रेि की पटररयों को जोड़िा ह ै।
+*31/2/3* 4 #
+--- page 5 ---
+*ECNEICS*
+2. The body of human beings works within the pH range of :
+(A) 61 to 68 (B) 65 to 73
+(C) 70 to 78 (D) 75 to 81
+3. The warning sign shown in the given figure must invariably be
+displayed/pasted on the containers which contain hydroxide of :
+(A) Aluminium (B) Calcium
+(C) Sodium (D) Magnesium
+4. Two metals zinc and tin are dissolved separately in definite proportions
+in molten copper (the primary metal) to obtain two different alloys
+respectively known as :
+(A) Bronze and Brass (B) Brass and Solder
+(C) Brass and Bronze (D) Solder and Bronze
+5. Aluminium powder is used in thermit welding because :
+(A) Its reaction with iron is highly exothermic.
+(B) When it is heated with iron (III) oxide, molten iron is obtained.
+(C) When it is heated with iron (III) oxide, molten aluminium oxide is
+obtained to join railway tracks.
+(D) Its melting point is low as compared to iron and a molten alloy of
+iron and aluminium is formed on heating which is used to join
+railway tracks.
+*31/2/3* 5 # [ P.T.O. ]
+--- page 6 ---
+*ECNEICS*
+6.
+मानव हृदय के प्रकाया के बारे में स्नम्नस्िस्खि कर्थनों में से सही स्वकसप चस्ु नए :
+(A)
+दायााँ अस्िन् द शरीर के स्वस्भन् न भागों से स्वऑक्‍टस ीजस्नि रुस्िर ग्रहण करके उसे फुफ्फुसीय
+स्शराओ ंमें भेजिा ह ै।
+बायााँ अस्िन् द ऑक्‍ट सीजस्नि रुस्िर को दाएाँ स्निय को भेजिा ह ैजो उसे शरीर के स्वस्भन् न भागों
+(B)
+को पम् प कर दिे ा ह ै।
+(C)
+दायााँ अस्िन् द शरीर से स्वऑक्‍ट सीजस्नि रुस्िर ग्रहण करके उसे दाएाँ स्निय को भेज दिे ा ह ै।
+(D)
+बायााँ अस्िन् द फुफ्फुसीय िमस्नयों से ऑक्‍ट सीजस्नि रुस्िर ग्रहण करके उसे बाएाँ स्निय को भेज
+दिे ा ह ै।
+7.
+स्दए गए आरेख
+A
+और
+B
+का प्रेक्षण कीस्जए । जब स्कसी छुई-मुई (सग्रु ाही) पौिे को त पश ा स्कया जािा
+ह,ै िो उसकी पस्त्तयााँ मड़ु जािी ह ैं। इसका कारण ह ै:
+आरेख आरेख
+A B
+(A)
+हॉमोनि प्रभाव
+(B)
+िापीय (ऊष् मीय) प्रभाव
+(C)
+कोस्शकाओ ंमें जि की मात्रा में पररविान
+(D)
+स्वद्यिु -चंबु कीय प्रभाव
+8.
+एक कोस्शकीय मोटी रुस्िर वास्हकाओ ंको क्‍ट या कहिे ह ैं?
+(A)
+कूस्पक ाएाँ
+(B)
+केस्शकाएाँ
+(C)
+िमस्नयााँ
+(D)
+स्शराएाँ
+*31/2/3* 6 #
+--- page 7 ---
+*ECNEICS*
+6. Select the correct option from the following statements about the
+functioning of the human heart.
+(A) Right atrium receives deoxygenated blood from different parts of
+the body and sends it to pulmonary veins.
+(B) Left atrium sends oxygenated blood to right ventricle which pumps
+it to different parts of the body.
+(C) Right atrium receives deoxygenated blood from the body and sends
+it to the right ventricle.
+(D) Left atrium receives oxygenated blood from the pulmonary arteries
+and sends it to the left ventricle.
+7. Observe the given figures A and B. When chhui-mui (sensitive) plant is
+touched, its leaves fold. This is due to :
+Figure A Figure B
+(A) Hormonal effect
+(B) Thermal effect
+(C) Change in amount of water in cells
+(D) Electromagnetic effect
+8. One-cell thick blood vessels are known as :
+(A) Alveoli (B) Capillaries
+(C) Arteries (D) Veins
+*31/2/3* 7 # [ P.T.O. ]
+--- page 8 ---
+*ECNEICS*
+9.
+स्कसी पष्ु पी पादप के मादा जनन िंत्र में स्दए गए भागों का व् यवत र्था के अनसु ार स्नम्नस्िस्खि में से
+कौन-सा सही अनक्रु म ह ै
+?
+(A)
+वस्िाकाग्र, बीजाण्ड , अंडाशय, वस्िाका
+(B)
+बीजाण्ड , वस्िाकाग्र, अंडाशय, वस्िाका
+(C)
+वस्िाका, वस्िाकाग्र, बीजाण् ड, अंडाशय
+(D)
+वस्िाकाग्र, वस्िाका, अंडाशय, बीजाण्ड
+10.
+स्कसी कोस्शका स्वभाजन में गुणसत्रू ों की संख् या आिी हो गई ह ै । इस प्रकार के कोस्शका स्वभाजन का
+प्रेक्षण कहााँ स्कया जािा ह ै?
+(A)
+केवि वषृ णों में
+(B)
+केवि अंडाशय में
+(C)
+अंडाशय और वषृ ण दोनों में
+(D)
+शरीर की सभी कोस्शकाओ ंमें
+11.
+कोई स्वद्यिु बस ब
+220 V
+की स्वद्यिु आपस्ू िा से संयोस्जि ह ै । यस्द यह बस ब आपस्ू िा से
+500 mA
+िारा िेिा ह,ै िो इस बस ब की शस्ि ह ै:
+(A) 11 W (B) 110 W
+(C) 220 W (D) 1100 W
+12. 12 
+के चार सवासम प्रस्िरोिक आरेख में दशााए अनसु ार श्रेणीक्रम में संयोस्जि होकर वगा
+ABCD
+बनािे ह ैं। इस नेटवका के दो स्बन् दओु ं1 और 2 के बीच प्रस्िरोि ह ै:
+(A) 48  (B) 36 
+(C) 9  (D) 6 
+*31/2/3* 8 #
+--- page 9 ---
+*ECNEICS*
+9. Which of the following is the correct sequence of parts of female
+reproductive system of flowering plants in terms of their placement ?
+(A) Stigma, ovule, ovary, style
+(B) Ovule, stigma, ovary, style
+(C) Style, stigma, ovule, ovary
+(D) Stigma, style, ovary, ovule
+10. The number of chromosomes in a cell division is halved. This kind of cell
+division is observed in :
+(A) Only testis (B) Only ovary
+(C) Ovary and testis both (D) All cells of the body
+11. An electric bulb is connected to a power supply of 220 V. If the current
+drawn by the bulb from the supply is 500 mA, the power of the bulb is :
+(A) 11 W (B) 110 W
+(C) 220 W (D) 1100 W
+12. Four identical resistors of 12  each are connected in series to form a
+square ABCD as shown in the figure. The resistance of the network
+between the two points 1 and 2 is :
+(A) 48  (B) 36 
+(C) 9  (D) 6 
+*31/2/3* 9 # [ P.T.O. ]
+--- page 10 ---
+*ECNEICS*
+13.
+मानव नेत्र का वह भाग कौन-सा ह ै जो अस्भनेत्र िेंस की वक्रिा में कुछ सीमा िक रूपान् िरण कर
+सकिा ह ै?
+(A)
+पिु िी
+(B)
+त वच् छमंडि
+(C)
+पक्ष् माभी पेस्शयााँ
+(D)
+नेत्रोद
+14.
+यस्द दो माध् यमों
+X
+और
+Y
+के स्नरपेक्ष अपविानांक क्रमश:
+*31/2/3* 10 #
+6
+5
+और
+4
+3
+ह,ैं िो
+X
+के सापेक्ष
+Y
+का
+अपविानांक होगा :
+(A)
+1
+9
+0
+(B)
+1
+9
+0
+(C)
+9
+8
+(D)
+8
+9
+15.
+कोई स्बम् ब स्कसी अविि दपाण के ध्रवु से
+30 cm
+दरू ी पर स्तर्थि ह ै । यस्द इस स्बम् ब का वात िस्वक
+और उस टा प्रस्िस्बम् ब इस दपाण के सामने
+60 cm
+दरू ी पर बनिा ह,ै िो दपाण की फोकस दरू ी ह ै:
+(A) – 15 cm (B) – 20 cm
+(C) + 20 cm (D) + 15 cm
+16.
+स्नम् नस्िस्खि में से सभी अजैव-स्नम् नीकरणीय पदार्थों के समहू को पहचास्नए ।
+(A)
+चमड़ा, कााँच, प् िास्तटक
+(B)
+कपास, िकड़ी, नाइिॉन
+(C) DDT,
+पॉस्िएत टर, काचाँ
+(D)
+चमड़ा, रेशम, ऊन
+प्रश्‍ ‍संख्‍या‍
+17
+से‍
+20
+के‍निए, र्दो‍कथ ‍नर्दए‍गए‍हैं‍–‍नि में‍एक‍को‍अनभकथ ‍
+(A)
+तथा‍र्दूसरे‍को‍
+कारण‍
+(R)
+द्वारा‍अंनकत‍नकया‍गया‍है‍।‍इ ‍प्रश्‍ ों‍के ‍सही‍उत्तर‍ ीचे‍नर्दए‍गए‍कोडों‍
+(A), (B), (C)
+और‍
+(D)
+में‍से‍चु कर‍र्दीनिए‍।
+(A)
+अस्भकर्थन
+(A)
+और कारण
+(R)
+दोनों सही ह ैं और कारण
+(R)
+, अस्भकर्थन
+(A)
+की सही
+व् याख् या करिा ह ै।
+(B) अस्भकर्थन (A) और कारण (R) दोनों सही ह,ैं परन् ि ु कारण (R), अस्भकर्थन (A) की
+सही व् याख् या हीं करिा ह ै।
+(C)
+अस्भकर्थन
+(A)
+सही ह,ै परन् ि ुकारण
+(R)
+ग़िि ह ै।
+(D)
+अस्भकर्थन
+(A)
+ग़िि ह,ै परन् ि ुकारण
+(R)
+सही ह ै।
+--- page 11 ---
+*ECNEICS*
+13. The part of the human eye which can modify the curvature of the eye lens
+to some extent is :
+(A) Pupil
+(B) Cornea
+(C) Ciliary muscles
+(D) Aqueous humour
+14. If the absolute refractive indices of two media X and Y are
+*31/2/3* 11 # [ P.T.O. ]
+6
+5
+and
+4
+3
+respectively, then the refractive index of Y with respect to X will be :
+10 9
+(A) (B)
+9 10
+(C)
+9
+8
+(D)
+8
+9
+15. An object is placed at a distance of 30 cm from the pole of a concave
+mirror. If its real and inverted image is formed at 60 cm in front of the
+mirror, the focal length of the mirror is :
+(A) – 15 cm (B) – 20 cm
+(C) + 20 cm (D) + 15 cm
+16. Identify from the following a group containing all non-biodegradable
+substances.
+(A) Leather, Glass, Plastic (B) Cotton, Wood, Nylon
+(C) DDT, Polyester, Glass (D) Leather, Silk, Wool
+For Questions number 17 to 20, two statements are given — one labelled as
+Assertion (A) and the other labelled as Reason (R). Select the correct
+answer to these questions from the codes (A), (B), (C) and (D) as given
+below.
+(A) Both Assertion (A) and Reason (R) are true and Reason (R) is the
+correct explanation of Assertion (A).
+(B) Both Assertion (A) and Reason (R) are true, but Reason (R) is not
+the correct explanation of Assertion (A).
+(C) Assertion (A) is true, but Reason (R) is false.
+(D) Assertion (A) is false, but Reason (R) is true.
+--- page 12 ---
+*ECNEICS*
+17. अनभकथि (A) : िन् यिा िािओु ं का वह गणु ह ै स्जसके कारण कॉपर का उपयोग खाना/भोजन
+पकाने के बिान बनाने में स्कया जा सकिा ह ै।
+कधिण
+(R) :
+कॉपर ऐसी िाि ुह ैजो िन् य के सार्थ-सार्थ आघािवध् या भी ह ै।
+18.
+अनभकथि
+(A) :
+आम का बीज अंकुररि होकर आम का वक्षृ बनेगा ।
+कधिण
+(R) :
+आनवु ंस्शकिा उस प्रस्क्रया का स्निाारण करिी ह ै स्जसके द्वारा जनकों से संिस्ि को
+िक्षण और स्वस्शष्ट िाएाँ (गणु ) स्वश् वत ििा के सार्थ वंशानुगि होिे/होिी ह ैं।
+19.
+अनभकथि
+(A) :
+स्कसी िार को कई फेरों की कुण् डिी में मोड़ने से उसके वैद्यिु प्रस्िरोि पर प्रभाव
+नहीं पड़िा ह ै।
+कधिण
+(R) :
+स्कसी िार का स्वद्यिु प्रस्िरोि उस िार की वैद्यिु प्रस्िरोिकिा के अनक्रु मानपु ािी
+होिा ह ै।
+20. अनभकथि (A) : यस्द जन्ि ु भोजन के रूप में कोयिा खािे (उपभक्‍टु ि करिे) ह,ैं िो उन् ह ें ऊजाा प्राप् ि
+नहीं होगी ।
+कधिण
+(R) :
+स्कसी स्वशेष प्रकार के भोजन के अपघटन/पाचन के स्िए स्वस्शष् ट एं ाइमों की
+आवश् यकिा होिी ह ै।
+खण्ड ख
+प्रश्ि संख् यध
+21
+स े
+26
+अनत घ-ु उत्तिीय प्रकधि के प्रश्ि ह ैं।
+21. ( क ) सामान् य व् यवहार में स्सस वर नाइरेट स्वियन से स्सस वर की प्रस्िप्रास्प् ि (वसिू ी) कॉपर िाि ु का
+उपयोग करके की जािी ह ै । इस प्रस्क्रया में होने वािी अस्भस्क्रया के प्रकार का नाम स्िस्खए
+िर्था सस्म्मस्िि अस्भस्क्रया का रासायस्नक समीकरण स्िस्खए ।
+(
+ख
+)
+स्सस वर के पररष् करण के स्िए प्रयोग की जाने वािी स्वस्ि का नाम स्िस्खए ।
+2
+22.
+स्मसेि स्कसे कहिे ह ैं? इसकी संरचना खींस्चए ।
+2
+23.
+कोई व् यस्ि स्नकट के बा ार से कुछ वत िएु ाँ खरीदने के स्िए सचू ी बना रहा ह ै । इस कायाकिाप को
+करने में अग्रमस्तिष् क स्कस प्रकार महत्त्वपणू ा भस्ू मका स्नभािा ह,ै व् याख् या कीस्जए ।
+2
+*31/2/3* 12 #
+--- page 13 ---
+*ECNEICS*
+17. Assertion (A) : Ductility is that property of metals which enables copper
+to be used in making cooking utensils.
+Reason (R) : Copper is a metal which is ductile as well as malleable.
+18. Assertion (A) : A mango seed will germinate to form a mango tree.
+Reason (R) : Heredity determines the process by which traits and
+characteristics are reliably inherited from parents to
+offspring.
+19. Assertion (A) : The bending of a wire in the form of a coil of several turns
+does not affect its electrical resistance.
+Reason (R) : The electrical resistance of a wire is directly proportional
+to its electrical resistivity.
+20. Assertion (A) : Animals will not get energy if they eat (consume) coal as
+food.
+Reason (R) : Specific enzymes are needed for the breakdown of a
+particular food.
+SECTION B
+Questions no. 21 to 26 are Very Short Answer Type questions.
+21. (a) In common practice silver is recovered from silver nitrate solution
+by the use of copper metal. Name the type of reaction that takes
+place in this process and give the chemical equation of the reaction
+involved.
+(b) Name the method used for refining silver. 2
+22. What are micelles ? Draw the structure. 2
+23. A person is making a list to purchase few things from a nearby market.
+Explain how the fore-brain plays an important role in performing this
+activity. 2
+*31/2/3* 13 # [ P.T.O. ]
+--- page 14 ---
+*ECNEICS*
+24. (
+क
+)
+बीज में, स्नम्नस्िस्खि प्रत्य ेक भाग का एक-एक काया स्िस्खए :
+2
+(i)
+बीजावरण
+(ii)
+बीजपत्र
+(iii)
+मिू ांकुर
+(iv)
+प्रांकुर
+अथवा
+(
+ख
+)
+प्रयोगशािा में यीत ट संविान के मख्ु य चरणों को स्िस्खए ।
+2
+25. (
+क
+)
+दो िेंसों में एक अविि िर्था दसू रा उत्ति ह,ै उसिेख कीस्जए इनमें से कौन-सा एक िेंस अपने
+पर आपस्िि समान् िर प्रकाश पन्ु ज को अपसाररि करेगा । इस िेंस का मख्ु य फोकस दशााने के
+स्िए स्करण आरेख खींस्चए ।
+2
+अथवा
+(
+ख
+)
+कोई प्रकाश स्करण स्कसी उत्ति िेंस से अपविान के पश् चाि इसके मुख् य अक्ष के समान् िर
+स्नगाि होिी ह ै।
+2
+(i)
+इसे दशााने के स्िए नामांस्कि स्करण आरेख खींस्चए ।
+(ii)
+इस प्रकरण में, आपस्िि स्करण िेंस से गजु रने से पहिे िेंस के मख्ु य अक्ष के स्कसी
+स्बन् द ुसे गजु रिी ह ै। इस स्बन् द ुका नाम स्िस्खए ।
+26. स्कसी स्वद्युि पररपर्थ में स्वद्यिु फ्य ू का उपयोग क्‍ट यों और स्कस प्रकार स्कया जािा ह ै ? इसके काया का
+संक्षेप में वणान कीस्जए ।
+2
+खण्ड ग
+प्रश्ि संख् यध
+27
+से
+33
+घु-उत्तिीय प्रकधि के प्रश्ि ह ैं।
+27. (
+क
+) (i)
+स्वयोजन (अपघटन) अस्भस्क्रया की पररभाषा स्िस्खए । ऐसी प्रत्य ेक स्वयोजन
+अस्भस्क्रया के स्िए एक-एक रासायस्नक समीकरण स्िस्खए स्जसमें ऊजाा की आपस्ू ि ा
+ऊष् मा, प्रकाश और स्वद्यिु के रूप में की जािी ह ै।
+वनत पस्ि पदार्था का कम् पोत ट में अपघटन ऊष् माक्षेपी अस्भस्क्रया माना जािा ह ै। क्‍ट यों ?
+(ii) 3
+अथवा
+(
+ख
+)
+स्वयोजन अस्भस्क्रयाओ ंको संयोजन अस्भस्क्रयाओ ंका स्वपरीि क्‍ट यों कहा जािा ह ै ? इन दोनों
+प्रकार की अस्भस्क्रयाओ ंके स्िए एक-एक रासायस्नक समीकरण स्िस्खए िर्था इन समीकरणों
+में अस्भकमाक(कों) और उत् पाद(दों) के नाम का उस िेख भी कीस्जए ।
+3
+*31/2/3* 14 #
+--- page 15 ---
+*ECNEICS*
+24. (a) Write one function each of the following, in a seed : 2
+(i) Seed coat (ii) Cotyledon
+(iii) Radicle (iv) Plumule
+OR
+(b) Write the main steps to culture yeast in the laboratory. 2
+25. (a) Out of the two lenses, one concave and the other convex, state
+which one will diverge a parallel beam of light falling on it. Draw a
+ray diagram to show the principal focus of the lens. 2
+OR
+(b) A ray of light after refraction from a convex lens emerges parallel
+to its principal axis. 2
+(i) Draw a labelled ray diagram to show it.
+(ii) In this case, the incident ray before refraction from the lens
+passes through a point on its principal axis. Name the point.
+26. How and why is an electric fuse used in an electric circuit ? Briefly
+describe its function. 2
+SECTION C
+Questions no. 27 to 33 are Short Answer Type questions.
+27. (a) (i) Define the term decomposition reaction. Write one chemical
+equation each for decomposition reaction where energy is
+supplied in the form of heat, light or electricity.
+(ii) Decomposition of vegetable matter into compost is
+considered an exothermic reaction. Why ? 3
+OR
+(b) Why are decomposition reactions called the opposite of
+combination reactions ? Write one chemical equation each for these
+two types of reactions mentioning the name of the reactant(s) and
+the product(s) involved in the reactions. 3
+*31/2/3* 15 # [ P.T.O. ]
+--- page 16 ---
+*ECNEICS*
+28. दो पदार्थों ‘A’ और ‘B’ का अिग-अिग वाय ु में दहन स्कया गया । ‘A’ के दहन से प्राप् ि राख को जि
+में घोिकर
+‘X’
+स्वियन प्राप् ि हुआ, जबस्क
+‘B’
+के दहन से उत्प न् न िमू (िआु ाँ) को जि में प्रवास्हि
+करके ‘
+Y’
+स्वियन प्राप् ि हुआ । दोनों स्वियनों –
+‘X’
+और
+‘Y’
+का
+pH
+पत्र द्वारा परीक्षण स्कया गया ।
+3
+(
+क
+)
+यस्द
+pH
+पत्र को
+‘X’
+हस का नीिा रंग िर्था
+‘Y’
+नारंगी रंग दिे ा ह,ै िो
+‘X’
+और
+‘Y’
+की प्रकृस्ि
+और उनके
+pH
+का पररसर स्िस्खए ।
+(
+ख
+) A
+और
+B
+दोनों में से कौन-सी िाि ुह ै? अपने उत्तर की पस्ु ि कीस्जए ।
+29. (
+क
+)
+हॉमोन की पररभाषा स्िस्खए ।
+(
+ख
+)
+“हॉमोनों का स्रवण पररशद्धु मात्रा में होना चास्हए । हमारे पास पनु भारण स्क्रयास्वस्ि ह ै स्जसके
+द्वारा यह स्कया जािा ह ै।” एक उदाहरण की सहायिा से इस कर्थन की पस्ु ि कीस्जए ।
+3
+30.
+स्कसी शद्धु मटर के पौिे स्जस पर अन्त्य पष्ु प होिे ह,ैं का पर-परागण स्कसी शद्धु मटर के पौिे स्जस पर
+अक्षीय पष्ु प होिे ह,ै से कराया गया ।
+F
+पीढ़ी में, केवि अक्षीय पष्ु प वािे पौिे ही प्राप् ि हुए ।
+1
+F
+पीढ़ी के पौिों का त व-परागण कराया गया िर्था
+F
+पीढ़ी प्राप् ि हुई ।
+3
+1 2
+(
+क
+)
+इस प्रकरण में आनवु ंस्शकिा के पैटना की रचना कीस्जए ।
+(
+ख
+) F
+पीढ़ी में प्राप् ि पौिों का अनपु ाि ज्ञाि कीस्जए ।
+2
+31.
+स्कसी ऑटोमोबाइि में पीछे का दृश्य दखे ने के स्िए उपयोग होने वािे उत्ति दपाण की फोकस
+दरू ी
+15 m
+ह ै । यस्द कोई
+3 m
+ऊाँ ची बस दपाण से
+6 m
+दरू ी पर स्तर्थि ह,ै िो दपाण सत्रू का उपयोग
+करके दपाण में स्दखाई दने े वािी बस के प्रस्िस्बम् ब की स्तर्थस्ि और साइ स्निााररि कीस्जए ।
+3
+32. 2 , 3 
+और
+6 
+के िीन प्रस्िरोिक
+(i)
+श्रेणीक्रम और
+(ii)
+पाश्व ाक्रम में संयोस्जि ह ैं । प्रस्िरोिकों
+की इन व् यवत र्थाओ ंको आरेस्खि कीस्जए और प्रत् येक व् यवत र्था का िसु य प्रस्िरोि ज्ञाि कीस्जए ।
+3
+33.
+आहार श्रंखृ िा से होकर कुछ हास्नकारक रसायन मानव शरीर में संग्रस्हि हो जािे ह ैं । इस पररघटना का
+नाम स्िस्खए । हमारे शरीर में इन रसायनों की अस्िकिम सांििा होने के कारण की व् याख् या कीस्जए ।
+3
+*31/2/3* 16 #
+--- page 17 ---
+*ECNEICS*
+28. Two substances ‘A’ and ‘B’ are burnt in air separately. For ‘A’, ashes are
+collected and dissolved in water to get solution ‘X’, while for ‘B’, fumes
+produced are passed through water to get solution ‘Y’. Both the solutions
+‘X’ and ‘Y’ are then tested with pH paper. 3
+(a) If ‘X’ gives light blue colour and ‘Y’ gives orange colour to the pH
+paper, then write the nature and range of pH of ‘X’ and ‘Y’.
+(b) Which one of the two – A and B, is a metal ? Justify your answer.
+29. (a) Define hormone.
+(b) “Hormones should be secreted in precise quantities. We have a
+feedback mechanism through which this is done.” With the help of
+an example justify the statement. 3
+30. A pure pea plant bearing terminal flowers was cross-pollinated with a
+pure plant having axillary flowers. In F generation, plants with axial
+1
+flowers only were obtained. F generation plants are self-pollinated and
+1
+F generation is obtained. 3
+2
+(a) Work out the pattern of inheritance in this case.
+(b) What will be the ratio of plants obtained in F generation ?
+2
+31. A convex mirror used for rear view on an automobile has a focal length of
+15 m. If a 3 m high bus is located at 60 m from the mirror, use mirror
+formula to determine the position and size of the image of the bus as seen
+in the mirror. 3
+32. Three resistors of 2 , 3  and 6  are connected in (i) series, and
+(ii) parallel. Draw the arrangements of the resistors and find the
+equivalent resistance of each arrangement. 3
+33. Some harmful chemicals get accumulated in human bodies through the
+food chain. Name this phenomenon. Explain the reason of maximum
+concentration of these chemicals found in our bodies. 3
+*31/2/3* 17 # [ P.T.O. ]
+--- page 18 ---
+*ECNEICS*
+खण्ड घ
+प्रश्ि संख् यध
+34
+स े
+36
+र्दीघ-ा उत्तिीय प्रकधि के प्रश्ि ह ैं।
+34. (
+क
+)
+स्दए गए आरेख में सीिे चािक
+XY
+से िारा प्रवास्हि होना दशााया गया ह ै।
+(i)
+इस आरेख को अपनी उत्तर-पस्ु तिका पर आरेस्खि कीस्जए िर्था चािक
+X
+से
+Y
+की
+ओर िारा प्रवास्हि होने पर चबंु कीय क्षेत्र रेखाएाँ आरेस्खि कीस्जए ।
+(ii)
+उपयािु स्तर्थस्ि में चंबु कीय क्षेत्र रेखाओ ंकी स्दशा स्निााररि करने में उपयोग होने वािे
+स्नयम का नाम स्िस्खए और उसका उसिेख कीस्जए ।
+(iii)
+फ्िेस्मंग का वामहत ि स्नयम बिाइए । इस स्नयम का उपयोग करके, आरेख में दशााए
+अनसु ार एकसमान चंबु कीय क्षेत्र में प्रवेश करिे स्कसी इिेक्‍टरॉन पर िगने वािे बि
+की स्दशा स्निााररि कीस्जए ।
+5
+चंबु कीय क्षेत्र
+अथवा
+*31/2/3* 18 #
+--- page 19 ---
+*ECNEICS*
+SECTION D
+Questions no. 34 to 36 are Long Answer Type questions.
+34. (a) The given figure shows the current passing through the straight
+conductor XY.
+(i) Copy the diagram and draw the magnetic field lines when
+current flows from conductor X to Y.
+(ii) Name and state the rule used in determining the direction of
+the magnetic field lines in the situation given above.
+(iii) State Fleming’s left hand rule. Using this rule, determine
+the direction of force applied on an electron entering a
+uniform magnetic field as shown in the figure. 5
+OR
+*31/2/3* 19 # [ P.T.O. ]
+--- page 20 ---
+*ECNEICS*
+ख परर नास्िका की पररभाषा स्िस्खए । स्कसी सीिी िारावाही पररनास्िका के भीिर
+( ) (i)
+और उसके चारों ओर उत्प न् न चंबु कीय क्षेत्र रेखाओ ंका पैटना आरेस्खि कीस्जए । इस
+पैटना पर (i) िारा की स्दशा, (ii) पररनास्िका के स्सरों के स्नकट क्षेत्र रेखाओ ं की
+स्दशा िर्था
+(iii)
+एकसमान चबंु कीय क्षेत्र का प्रदशे अंस्कि कीस्जए ।
+(ii)
+िारावाही पररनास्िका का उपयोग करके आप कोई स्वद्यिु -चंबु क स्कस प्रकार
+बनाएाँगे ?
+5
+35. ( क ) (i) कोई यौस्गक ‘X’ स्जसके एक अण ु में दो काबान परमाण ु ह ैं नीिे स्िटमस को िाि कर
+दिे ा ह ै िर्था का जिीय स्वियन बहृ ि रूप से परररक्षक की भााँस्ि
+‘X’ 5 – 8%
+उपयोग स्कया जािा ह ै। यौस्गक
+‘X’
+को पहचास्नए और इसकी संरचना स्िस्खए ।
+1
+*31/2/3* 20 #
+1
+2
+(ii)
+स्कसी खस्नज अम् ि के सार्थ इसकी
+pH
+प्रकृस्ि की ििु ना कीस्जए ।
+1
+2
+(iii) ‘ X’ की ऐसकोहॉिों से अस्भस्क्रया द्वारा मदृ ु गंि के यौस्गक बनिे ह,ैं स्जनका उपयोग
+परफ़्यमू बनाने में स्कया जािा ह ै । इस अस्भस्क्रया का नाम और इसका रासायस्नक
+समीकरण स्िस्खए ।
+1
+1
+2
+(iv)
+‘
+X’
+में सोस्डयम काबोनेट स्मिाने पर कोई रंगहीन गैस स्नकििी ह,ै जो चनू े के पानी
+को दस्ूिया कर दिे ी ह ै । होने वािी अस्भस्क्रया का रासायस्नक समीकरण और बनने
+वािे िवण का नाम स्िस्खए ।
+1
+1
+2
+अथवा
+(
+ख
+) (i)
+प्रत्य ेक का एक-एक उदाहरण दिे े हुए संरचनात्मक सत्रू के सार्थ संिप्ृ ि और असंिप्ृ ि
+हाइड्रोकाबान के बीच अन् िर तपि कीस्जए ।
+(ii)
+असंिप्ृ ि हाइड्रोकाबान को संिप्ृ ि हाइड्रोकाबान में पररवस्िाि करने की स्वस्ि स्िस्खए ।
+उस उद्योग का नाम स्िस्खए स्जसमें इस अस्भस्क्रया का सामान् यि: उपयोग स्कया
+जािा ह ै।
+(iii) उस हाइड्रोकाबान का नाम और संरचना स्िस्खए स्जसके एक अण ु में चार काबान
+परमाण ुिर्था दोहरा आबंि ह ैं।
+5
+--- page 21 ---
+*ECNEICS*
+(b) (i) Define the term solenoid. Draw the pattern of the magnetic
+field lines in and around a current carrying straight
+solenoid. Mark on the pattern the (i) direction of current,
+(ii) direction of field lines near the ends of the solenoid, and
+(iii) region where the magnetic field is uniform.
+(ii) How would you make an electromagnet using a current
+carrying solenoid ? 5
+35. (a) (i) A compound ‘X’ having two carbon atoms in its molecule
+turns blue litmus red and 5 – 8% solution of ‘X’ in water is
+widely used as a preservative. Identify the compound ‘X’ and
+write its structure. 1
+*31/2/3* 21 # [ P.T.O. ]
+1
+2
+(ii) Compare its pH nature with a mineral acid.
+1
+2
+(iii) ‘X’ on reacting with alcohols produces sweet smelling
+compounds, used in making perfumes. Name the reaction
+and write its chemical equation. 1
+1
+2
+(iv) When sodium carbonate is added to ‘X’, a colourless gas
+is produced which turns lime water milky. Write the
+chemical equation for the reaction giving the name of the
+1
+salt produced. 1
+2
+OR
+(b) (i) Differentiate between saturated and unsaturated
+hydrocarbons by giving one example each, with a structural
+formula.
+(ii) Write the method of converting an unsaturated hydrocarbon
+into a saturated hydrocarbon. Name the industry where this
+reaction is commonly used.
+(iii) Write the name and structure of a hydrocarbon having
+double bond and four carbon atoms in its one molecule. 5
+--- page 22 ---
+*ECNEICS*
+36. (
+क
+) (i)
+“स्वस्भन् न जन् िओु ंकी क्षिु ांत्र की िंबाई उनके द्वारा खाए जाने वािे आहार पर स्नभार
+करिी ह ै।” इस कर्थन की पस्ु ि कीस्जए ।
+(ii)
+मानव में भोजन के पाचन में अग्न्याशय और स्पत्त रस की भस्ू मका पर चचाा
+कीस्जए ।
+(iii)
+पास्चि भोजन को अवशोस्षि करने के स्िए क्षिु ांत्र की अस्भकस पना स्कस प्रकार
+की गई ह ै?
+5
+अथवा
+(
+ख
+) (i)
+कंठ में उपस्तर्थि उपास्तर्थ के वियों की भस्ू मका का उस िेख कीस्जए ।
+(ii) श्व सन चक्र के दौरान वाय ु को अंदर िेिे समय पसस्ियों और डायाफ्राम की भस्ू मका
+का वणान कीस्जए ।
+(iii)
+कठोर व् यायाम करिे समय हमारी पेस्शयों में क्रैंप क्‍ट यों आिे हैं ? व् याख् या कीस्जए ।
+5
+खण्ड ङ >
+निम् िन न त प्रश्ि स्रोत-आर्धरित/केस-आर्धरित प्रश्ि ह ैं। केस को ध्यधिपवू ाक पऩिए औि उसके िीचे नर्दए गए प्रश्ि ों
+के उत्ति र्दीनिए ।
+37.
+स्कसी िड़की के जन् म के समय ही उसके अंडाशय में ह ारों अपररपक्‍टव अंड होिे ह ैं । यौवनारम् भ में,
+इनमें से कुछ पररपक्‍टव होने िगिे ह ैं । दोनों अंडाशयों में से एक अंडाशय द्वारा प्रस्िमाह एक
+पररपक्‍टव अंड मोस्चि होिा है । दो अंडवास्हकाएाँ संयक्‍टु ि होकर एक िचीिी र्थैिेनुमा संरचना का
+स्नमााण करिी ह ैंस्जसे गभााशय कहिे ह ैं।
+(
+क
+)
+मानव मस्हिा में स्नषेचन का त र्थि स्िस्खए ।
+1
+(
+ख
+)
+गभााशय स्कस प्रकार त वयं को स्वकस्सि होिे भ्रणू की प्रास्प्त और उसके पोषण के स्िए िैयार
+करिा ह ै? व् याख् या कीस्जए ।
+1
+(
+ग
+) (i)
+क्‍ट या होिा ह ैजब अंड का स्नषेचन नहीं होिा ह ै?
+2
+अथवा
+(
+ग
+) (ii)
+स्वकस्सि होिा भ्रणू स्कस प्रकार मािा के रुस्िर स े पोषण प्राप् ि करिा ह ै ? व् याख् या
+कीस्जए ।
+2
+*31/2/3* 22 #
+--- page 23 ---
+*ECNEICS*
+36. (a) (i) “The length of the small intestine in various animals
+depends on the food they eat.” Justify the statement.
+(ii) Discuss the role of the pancreas and bile juice in the
+digestion of food in human beings.
+(iii) How is the small intestine designed to absorb digested food ? 5
+OR
+(b) (i) State the role of rings of cartilage present in the throat.
+(ii) Discuss the role of the ribs and diaphragm when air is taken
+in during the breathing cycle.
+(iii) Why do we get muscle cramps during heavy exercise ?
+Explain. 5
+SECTION E
+The following questions are source-based/case-based questions. Read the case
+carefully and answer the questions that follow.
+37. When a girl is born, the ovaries already contain thousands of immature
+eggs. On reaching puberty, some of these start maturing. One matured
+egg is released every month by one of the ovaries. The two oviducts unite
+into an elastic bag-like structure known as uterus.
+(a) Write the site of fertilization in human female. 1
+(b) How does the uterus prepare itself to receive and nurture the
+growing embryo ? Explain. 1
+(c) (i) What happens when the egg is not fertilized ? 2
+OR
+(c) (ii) How does the developing embryo get nutrition from the
+mother’s blood ? Explain. 2
+*31/2/3* 23 # [ P.T.O. ]
+--- page 24 ---
+*ECNEICS*
+38. स्कसी व् यस्ि ने सयू ा के श् वेि प्रकाश के महीन पंजु को स्कसी िघ ु द्वारक से स्कसी अाँिेरे कमरे में प्रवेश
+कराया िर्था प्रकाश पंजु के पर्थ में स्कसी कााँच के स्प्रज़्म को इस प्रकार रखा गया स्क प्रकाश पंजु आरेख
+में दशााए अनसु ार स्प्रज़्म के फिक
+AB
+पर आपिन करे ।
+श्व िे पंजु
+स्कसी पद े
+S
+को स्प्रज़्म के दसू री ओर,
+AC
+के सामने रखा गया । स्प्रज़्म को िीरे-िीरे घमु ाने पर
+,
+पद े पर
+वणों की आकषाक पट्टी प्राप् ि होिी ह ै। यह सयू ा के प्रकाश का त पेक्‍ट रम ह ै।
+क उस पररघटना का नाम स्िस्खए स्जसके कारण कोई स्प्रज़्म आपस्िि श्व ेि प्रकाश को वणों की
+( )
+पट्टी में स्वभक्‍ट ि कर दिे ा ह ै।
+1
+(
+ख
+)
+उपयािु प्रकरण में साि वणों की पट्टी प्राप् ि होने का कारण स्िस्खए ।
+1 1
+(
+ग
+) (i)
+नामांस्कि स्करण आरेख की सहायिा से
+,
+श्व िे प्रकाश के त पेक्‍ट रम का पनु योजन दशााने
+की प्रायोस्गक व् यवत र्था की व् याख् या कीस्जए ।
+2
+अथवा
+(
+ग
+) (ii)
+इन् ििनषु बनना दशााने के स्िए नामांस्कि स्करण आरेख खींस्चए ।
+2
+*31/2/3* 24 #
+--- page 25 ---
+*ECNEICS*
+38. A person allowed a narrow beam of white light from the sun to enter a
+dark room through a small aperture and placed a glass prism in its path
+in such a manner that the beam falls on the face AB of the prism as
+shown in the figure.
+A screen S is placed on the other side of the prism, facing AC. On turning
+the prism slowly, a beautiful band of colours is obtained on the screen. It
+is the spectrum of sunlight.
+(a) Name the phenomenon due to which a prism splits the incident
+white light into a band of colours. 1
+(b) State the reason of getting a band of seven colours in the above
+case. 1
+(c) (i) Explain with the help of a labelled ray diagram, an
+experimental arrangement to show the recombination of the
+spectrum of white light. 2
+OR
+(c) (ii) Draw a labelled ray diagram to show the formation of a
+rainbow. 2
+*31/2/3* 25 # [ P.T.O. ]
+--- page 26 ---
+*ECNEICS*
+39.
+अम् ि-क्षारक सचू कों का उपयोग अम् ि और क्षारक में स्वभेदन करने के स्िए स्कया जा सकिा ह ै ।
+सावास्त्रक सचू क, जो अनेक सूचकों का स्मश्रण ह,ै अम् िों और क्षारकों की स्वस्भन् न सांििाओ ंके स्िए
+स्वस्भन् न रंग दशाािा ह,ै स्जसके द्वारा
+pH
+त केि, जो
+0
+–
+14
+िक ह,ै पर उनके
+pH
+को सस्ू चि करिा
+ह ै।
+pH
+पत्र द्वारा स्कसी स्वियन का
+pH
+मापा जािा ह ैजो सावास्त्रक सचू क अंिभााररि पेपर होिा ह ै।
+pH
+तकेि
+स्नम् नस्िस्खि प्रश्न ों के उत्तर दीस्जए :
+क स्वियन कोई प्रबि अम् ि ह ै जबस्क स्वियन कोई प्रबि क्षारक ह ै । त केिपर आप
+( ) P Q pH
+इन स्वियनों और को कहााँ रखेंगे ?
+P Q 1
+ख स्कसी स्वियन का ह ै । उस यौस्गक का नाम स्िस्खए स्जसका उपयोग आप इस
+( ) pH, 7
+स्वियन के
+(i) pH
+में वस्ृद्ध िर्था
+(ii) pH
+म ेंकमी करने के स्िए करेंगे ।
+1
+ग जब स्कसी स्वियन के में स े िक कमी होिी ह,ै िो उसके हाइड्रोस्नयम
+( ) (i) pH 4 2
+आयन की सांििा पर क्‍ट या प्रभाव होिा ह ै ? इससे
+pH
+पत्र के रंग म ें होने वाि े
+पररविान का उस िेख कीस्जए ।
+2
+अथवा
+(
+ग
+) (ii)
+कोई व् यस्ि अपच के कारण अपने उदर में पीड़ा और जिन का अनभु व कर रहा ह ै ।
+उसके उदर के िरि पदार्था का क्‍ट या हो सकिा ह ै ? इसके उपचार के स्िए िोगों
+pH
+द्वारा उपयोग की जाने वािी सामान् य औषस्ि का नाम स्िस्खए । इस उद्दश्े य के स्िए
+प्राय: उपयोग स्कए जाने वािे “स्मस क ऑफ मैग् नीस्शया” का रासायस्नक नाम
+स्िस्खए ।
+2
+*31/2/3* 26 #
+--- page 27 ---
+*ECNEICS*
+39. Acid-base indicators can be used to distinguish between an acid and a
+base. Universal indicator, a mixture of several indicators, shows different
+colours at different concentrations of acids and bases, thereby indicating
+their pH on the pH scale of 0 – 14. The pH of a solution is measured by
+pH paper, which is a paper impregnated with a universal indicator.
+pH Scale
+Answer the following questions :
+(a) Solution P is a strong acid while solution Q is a strong base. On the
+pH scale, where would you place the solutions P and Q ? 1
+(b) A solution has a pH of 7. Name a compound you would use to
+(i) increase its pH, and (ii) decrease its pH. 1
+(c) (i) When the pH of a solution is decreased from 4 to 2, what
+effect does it produce on its hydronium ion concentration ?
+State the colour change shown by the pH paper. 2
+OR
+(c) (ii) A person is feeling pain and irritation in the stomach due
+to indigestion. What could be the pH of the fluid in the
+stomach ? Write the common name of the medicines people
+use for remedy. Give the chemical name of ‘‘milk of
+magnesia’’ often used for this purpose. 2
+*31/2/3* 27 # [ P.T.O. ]
