@@ -6,10 +6,9 @@ import pandas as pd
 
 # Symbols that only show up in the broken Hindi font, never in normal English
 GARBLE = re.compile("[{}$~|`\u00a1\u00a5\u00f0\u00a9\u00cc\u00ec\u00cf\u00ef]")
-FOOTER = re.compile(r"P\.T\.O|^\s*---\s*page|^\s*\d{1,3}-\d+/\d+/\d+", re.I)
+FOOTER = re.compile(r"P\.T\.O|^\s*---\s*page|^\s*\d{1,3}-\d+/\d+/\d+|CCeennttrraall", re.I)
 SECTION = re.compile(r"^\s*section\s*[-:\u2013\u2014]?\s*([a-e])\b", re.I)
-QSTART = re.compile(r"^\s*(\d{1,2})\s*[.)]\s+(\S.*)$")
-
+QSTART = re.compile(r"^\s*(\d{1,2})(?:\s*[.)]\s+|\s+(?=[A-Z]))(\S.*)$")
 
 def is_junk(line):
     s = line.strip()
@@ -21,7 +20,16 @@ def is_junk(line):
 
 
 def split_questions(text):
-    lines = [l.strip() for l in text.splitlines() if not is_junk(l)]
+    lines = []
+    for raw in text.splitlines():
+        s = raw.strip()
+        if GARBLE.search(s):
+            m = re.match(r"^(\d{1,2})\s*[.)]\s", s)
+            if m:  # numbered Hindi line: keep only the question number
+                lines.append(f"{m.group(1)}. @@")
+            continue
+        if not is_junk(raw):
+            lines.append(s)
     questions, current, expected, section = [], None, 1, ""
     for line in lines:
         sec = SECTION.match(line)
@@ -55,7 +63,8 @@ for path in files:
     for q in qs:
         rows.append({
             "paper": name, "year": year, "section": q["section"],
-            "qno": q["qno"], "text": re.sub(r"\s+", " ", q["text"]).strip(),
+            "qno": q["qno"],
+            "text": re.sub(r"\s+", " ", q["text"].replace("@@", "")).strip(),
             "label": "",
         })
     nums = [q["qno"] for q in qs]
